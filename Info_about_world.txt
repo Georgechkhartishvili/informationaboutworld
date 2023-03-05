@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Information about World </title>
+</head>
+<body>
+<ul>
+
+<h1><li><i>North America</i></li> </h1>
+<li><i>USA</i></li>
+
+<ul>
+<li><i>Washington</i></li> <a href="https://en.wikipedia.org/wiki/Washington_(state)">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Washington_(state)" target='blink_'>Visit W3Schools </a>
+</ul>
+<hr> 
+</ul>
+
+<ul>
+<h1><li>South America</li></h1>
+<li>Brasil</li>
+<ul>
+<li>Rio de Janeiro</li> <a href="https://en.wikipedia.org/wiki/Rio_de_Janeiro">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Rio_de_Janeiro"target='blink_'>Visit W3Schools </a>
+</ul>
+<hr>
+</ul>
+
+<ul>
+<h1><li><i>Europe</i></li></h1>
+<li><i>Georgia</i></li>
+
+<ul>
+<li><i>Tbilisi</i></li> <a href="https://en.wikipedia.org/wiki/Tbilisi">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Tbilisi"target='blink_'>Visit W3Schools </a>
+</ul>
+<hr>
+</ul>
+
+<ul>
+<h1><li><i>Asia</i></li></h1>
+<li><i>Japan</i></li>
+<ul>
+<li><i>Tokyo</i></li> <a href="https://en.wikipedia.org/wiki/Tokyo">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Tokyo"target='blink_'>Visit W3Schools </a>
+</ul>
+<hr>
+</ul>
+
+<ul>
+<h1><li><i>Africa</i></li></h1>
+<li><i>	Egypt</i></li>
+<ul>
+<li><i>Cairo</i></li> <a href="https://en.wikipedia.org/wiki/Cairo">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Cairo"target='blink_'>Visit W3Schools </a>
+</ul>
+<hr>
+</ul>
+
+<ul>
+<h1><li><i>Australia</i></li></h1>
+<li><i>Papua New Guinea	</i></li>
+<ul>
+<li><i>Port Moresby</i></li> <a href="https://en.wikipedia.org/wiki/Port_Moresby">Visit W3Schools </a>
+<br>
+<a href="https://en.wikipedia.org/wiki/Port_Moresby"target='blink_'>Visit W3Schools </a>
+</ul>
+<hr>
+</ul>
+
+</body>
+</html>
+
+
